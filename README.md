@@ -1,0 +1,1 @@
+# spring-microservices-tutorials-config-server
