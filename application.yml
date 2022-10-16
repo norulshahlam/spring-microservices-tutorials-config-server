@@ -7,3 +7,5 @@ eureka:
   instance:
     hostname: localhost
     instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+app:
+  description: this is being loaded in git repo in application.yml
